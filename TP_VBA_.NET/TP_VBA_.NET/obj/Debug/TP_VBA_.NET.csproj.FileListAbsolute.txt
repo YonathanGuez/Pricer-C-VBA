@@ -1,0 +1,10 @@
+C:\Users\Sebastien\Documents\Visual Studio 2013\Projects\TP_VBA_.NET\TP_VBA_.NET\bin\Debug\TP_VBA_.NET.dna
+C:\Users\Sebastien\Documents\Visual Studio 2013\Projects\TP_VBA_.NET\TP_VBA_.NET\bin\Debug\TP_VBA_.NET.xll
+C:\Users\Sebastien\Documents\Visual Studio 2013\Projects\TP_VBA_.NET\TP_VBA_.NET\bin\Debug\TP_VBA_.NET.dll
+C:\Users\Sebastien\Documents\Visual Studio 2013\Projects\TP_VBA_.NET\TP_VBA_.NET\bin\Debug\TP_VBA_.NET.pdb
+C:\Users\Sebastien\Documents\Visual Studio 2013\Projects\TP_VBA_.NET\TP_VBA_.NET\bin\Debug\ExcelDna.Integration.dll
+C:\Users\Sebastien\Documents\Visual Studio 2013\Projects\TP_VBA_.NET\TP_VBA_.NET\bin\Debug\MathNet.Numerics.dll
+C:\Users\Sebastien\Documents\Visual Studio 2013\Projects\TP_VBA_.NET\TP_VBA_.NET\bin\Debug\MathNet.Numerics.xml
+C:\Users\Sebastien\Documents\Visual Studio 2013\Projects\TP_VBA_.NET\TP_VBA_.NET\obj\Debug\TP_VBA_.NET.dll
+C:\Users\Sebastien\Documents\Visual Studio 2013\Projects\TP_VBA_.NET\TP_VBA_.NET\obj\Debug\TP_VBA_.NET.pdb
+C:\Users\Sebastien\Documents\Visual Studio 2013\Projects\TP_VBA_.NET\TP_VBA_.NET\obj\Debug\TP_VBA_.NET.csprojResolveAssemblyReference.cache

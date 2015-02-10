@@ -1,0 +1,4 @@
+﻿<DnaLibrary Name="TP_VBA_.NET" RuntimeVersion="v4.0">
+  <ExternalLibrary Path="TP_VBA_.NET.dll" />
+</DnaLibrary>
+
